@@ -3,6 +3,7 @@
 **Senior Software Engineer @ Samsung** | 8+ YOE in High-Performance Systems
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pjy0121&show_icons=true&theme=radical&hide_border=true)
+![Personal Project Portfolio](https://pjy0121.github.io/Wiki/portfolio.html)
 
 ## 🚀 Featured Projects
 [![Multi Model Generator](https://img.shields.io/badge/Multi_Model_Generator-AI_Workflow_Builder-blue?style=for-the-badge&logo=react&logoColor=white)](https://pjy0121.github.io/MultiModelGenerator/)
